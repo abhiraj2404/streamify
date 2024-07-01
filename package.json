@@ -1,0 +1,19 @@
+{
+  "name": "03streamify",
+  "version": "1.0.0",
+  "description": "backend for a video hosting platform",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "author": "Abhiraj singh chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
