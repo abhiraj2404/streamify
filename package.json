@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "backend for a video hosting platform",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "start": "nodemon src/index.js"
+    "dev": "nodemon src/index.js"
   },
   "author": "Abhiraj singh chauhan",
   "license": "ISC",
